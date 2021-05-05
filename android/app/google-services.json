@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "280030191990",
+    "project_id": "rnpaymentmethod",
+    "storage_bucket": "rnpaymentmethod.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280030191990:android:956bb5e5c7c557e2135a57",
+        "android_client_info": {
+          "package_name": "com.myproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280030191990-e9unh12se3p9uabl50ri6cqi3revhvv8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoT32QSSw2ODzOCXZpcOb6D6eo8d85blA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280030191990-e9unh12se3p9uabl50ri6cqi3revhvv8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
